@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '25567'
     url: http://www.gutenberg.org/2009/agents/25567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22828#Ojamyll-ri-ja-h-nen-mini-ns-Jutelma-Vironkansan-opiksi-ja-huviksi
 gutenberg_issued: '2007-10-02'
 gutenberg_type: Text
 identifiers:
